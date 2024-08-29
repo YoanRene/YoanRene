@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yoan Ramos</h1>
 <h3 align="center">A 4th year Computer Science student at University of Havana</h3>
 
+- 🌍 I'm based in **Cuba**
+
 - 🔭 I’m looking for **a job**
 
 - 🌱 I’m currently learning **ML, AI, LLM, Distributed Systems**
