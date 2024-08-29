@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yoan Ramos</h1>
-<h3 align="center">A 4th year computer science student</h3>
+<h3 align="center">A 4th year Computer Science student</h3>
 
-- 🔭 I’m currently free **to work**
+- 🔭 I’m looking for **a job**
 
 - 🌱 I’m currently learning **ML, AI, LLM, Distributed Systems**
 
-- 🤝 I'm open to collaborate on **Education Projects**
+- 🤝 I'm open to help on **Education Projects**
 
 - 💬 Ask me about **Python, C#, C++, DSA**
 
