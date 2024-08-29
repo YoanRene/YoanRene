@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoan Ramos</h1>
-<h3 align="center">A 4th year Computer Science student</h3>
+<h3 align="center">A 4th year Computer Science student at University of Havana</h3>
 
 - 🔭 I’m looking for **a job**
 
