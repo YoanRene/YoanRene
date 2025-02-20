@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in **Cuba**
 
-- 🌱 I’m currently learning **ML, AI, LLM, Distributed Systems**
+- 🌱 I’m a **passionate learner**
 
 - 🤝 I'm open to help on **Education Projects**
 
