@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoan Rene</h1>
-<h3 align="center">A 4th year Computer Science student at University of Havana</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 🌍 I'm based in **Cuba**
 
