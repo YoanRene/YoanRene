@@ -3,8 +3,6 @@
 
 - 🌍 I'm based in **Cuba**
 
-- 🔭 I’m looking for **a job**
-
 - 🌱 I’m currently learning **ML, AI, LLM, Distributed Systems**
 
 - 🤝 I'm open to help on **Education Projects**
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Python, C#, C++, DSA**
 
 - 📫 How to reach me **yoanrrene2017@gmail.com**
+
+- 🔭 Read my **CV** [here](https://github.com/YoanRene/YoanRene/blob/main/cv.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
