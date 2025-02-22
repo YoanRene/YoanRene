@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Python, C#, C++, DSA**
 
-- 📫 How to reach me **yoanrrene2017@gmail.com**
-
-- 🔭 Read my **CV** [here](https://github.com/YoanRene/YoanRene/blob/main/cv.pdf) 
+- 📫 How to reach me **yoanrrene2017@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
