@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Python, C#, C++, DSA**
 
-- 📫 How to reach me **yoanrrene2017@gmail.com** 
+- 📫 How to reach me **yoanrrene2017@gmail.com**
+
+- :octocat: Chech my portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
