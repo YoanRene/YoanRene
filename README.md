@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yoanrrene2017@gmail.com**
 
-- :octocat: Chech my portfolio in [yoanrene.github.io](https://yoanrene.github.io/)
+- :octocat: Check my portfolio in [yoanrene.github.io](https://yoanrene.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
